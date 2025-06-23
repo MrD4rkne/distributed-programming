@@ -1,4 +1,4 @@
-# Distributed Programming
+# Concurrent programming
 
 ## Projects
 
