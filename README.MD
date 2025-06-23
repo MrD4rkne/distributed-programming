@@ -18,11 +18,11 @@ Performance benchmarks **demonstrated execution speeds surpassing reference impl
 
 #### Performance of my solution
 
-[Performance of my solution](./zal2/docs/pw_hw2.png)
+![Performance of my solution](./zal2/docs/pw_hw2.png)
 
 #### Performance of reference solution
 
-[Performance of reference solution](./zal2/docs/pw_hw2_perfect.png)
+![Performance of reference solution](./zal2/docs/pw_hw2_perfect.png)
 
 ## Theoritical
 
