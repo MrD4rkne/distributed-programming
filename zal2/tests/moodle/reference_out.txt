@@ -1,0 +1,1 @@
+./run.sh: linia 30: ./reference/reference: Nie ma takiego pliku ani katalogu
