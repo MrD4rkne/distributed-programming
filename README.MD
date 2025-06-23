@@ -8,8 +8,6 @@ Implementation of a multithreaded system to efficiently compute trees of boolean
 
 ### Project 2: High-Performance Computation
 
-### Project 2: High-Performance Computation
-
 Implementation of an optimized multithreaded application for processing large volumes of computational tasks. The solution employs a batch-checking strategy where threads access the shared task queue only every `M` iterations and in almost lock-free way, significantly reducing synchronization overhead and improving throughput.
 
 The application is configurable with command-line arguments for thread count and problem parameters.
